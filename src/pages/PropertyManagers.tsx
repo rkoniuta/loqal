@@ -1,4 +1,3 @@
-import React from 'react';
 import { PhoneIcon, EnvelopeIcon } from '@heroicons/react/24/outline';
 import { useNavigate } from 'react-router-dom';
 
